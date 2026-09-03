@@ -26,6 +26,7 @@ Completed as a data analytics bootcamp project, working in a small group; indivi
 - Google Sheets (presentation)
 
 ## Repository Structure
+```
 ├── data/
 │ ├── raw/ # Original CSV files
 │ ├── cleaned/ # cl.csv files
@@ -37,6 +38,7 @@ Completed as a data analytics bootcamp project, working in a small group; indivi
 │ └── discount_analysis_seaborn/ # My independent analysis with plotting
 ├── presentation.pdf # Group presentation
 └── README.md
+```
 
 ## Key Findings
 - Weak to no correlation between discount size and increased revenue
